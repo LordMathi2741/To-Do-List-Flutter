@@ -1,6 +1,6 @@
-# todolist
+# ToDolist
 
-A new Flutter project.
+This a proyect for build a To-Do-List in flutter framework, I was putting on practice my skills about flutter widgets.
 
 ## Getting Started
 
