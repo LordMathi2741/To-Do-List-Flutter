@@ -25,6 +25,10 @@ class AppTheme {
          style: TextButton.styleFrom(
            textStyle: const TextStyle(color: primary)
          )
+    ),
+    floatingActionButtonTheme: const FloatingActionButtonThemeData(
+      backgroundColor: primary,
+      foregroundColor: background
     )
   );
 }
